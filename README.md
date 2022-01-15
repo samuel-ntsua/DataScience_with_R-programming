@@ -1,6 +1,6 @@
 # Data Science with R Programming.
-_WARNING: Please do not submit this solution for your Simplilearn project!! Your submission will be flagged for plagiarism_<b>
-I completed this Data Science project to fulfill one of the requirements for Simplilearn's Data Science certification.
+_WARNING: Please do not submit this solution for your Simplilearn project!! Your submission will be flagged for plagiarism_  
+I completed this Data Science project to fulfill one of the requirements for Simplilearn's Data Science certification.  
 **To be awarded the certificate, learners must submit a non-guided project in each of the following courses:**
     1. **_Data Science with R Programming_** (Deadline for project: Aug 15, 2018)
     2. Data Science with Python
@@ -9,7 +9,7 @@ I completed this Data Science project to fulfill one of the requirements for Sim
     5. Big Data Hadoop and Spark Developer
     6. Data Science Capstone project
 ### Some housekeeping.
-I generated an output of this write-up using knitr. (In RStudio, File->Knit Document). Knitr then runs my r-code and knit the output into a nice word document. Please note that if there is a line in the code that installs a package , knitr expect the repository to be explicitly specified, like in install.packages(..., repos="....")
+I generated an output of this write-up using knitr. (In RStudio, File->Knit Document). Knitr then runs my r-code and knit the output into a nice word document.  Please note that if there is a line in the code that installs a package , knitr expect the repository to be explicitly specified, like in install.packages(..., repos="....")
 
 All packages used in this code are installed and loaded using pacman::p_load
 `install.packages("pacman")`
