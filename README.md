@@ -1,4 +1,5 @@
 # Data Science with R Programming.
+_WARNING: Please do not submit this solution for your Simplilearn project!! Your submission will be flagged for plagiarism_
 I completed this Data Science project to fulfill one of the requirements for Simplilearn's Data Science certification.
 **To be awarded the certificate, learners must submit a non-guided project in each of the following courses:**
     1. **_Data Science with R Programming_** (Deadline for project: Aug 15, 2018)
