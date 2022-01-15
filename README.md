@@ -65,4 +65,4 @@ mainly affects the hospital costs.
 ---
 This is the link to the source data at Wisconsin School of Business. The data is part of the resources accompanying the textbook ```Regression Modeling with Actuarial and Financial Applications by Edward W. Frees.ISBN: 9780521135962```  : [HospitalCosts](https://instruction.bus.wisc.edu/jfrees/jfreesbooks/Regression%20Modeling/BookWebDec2010/CSVData/HospitalCosts.csv)
 
-### My approach to solution.
+[### My approach to solution.](https://github.com/samuel-ntsua/DataScience_with_R-programming/blob/698e503027b0f5e5b669ccaff07155557c2c7234/DataScience_with_R_programming.ipynb)
