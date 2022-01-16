@@ -12,14 +12,17 @@ I completed this Data Science project to fulfill one of the requirements for Sim
 I generated an output of this write-up using knitr. (In RStudio, File->Knit Document). `Knitr` then runs my r-code and knit the output into a nice word document.  Please note that if there is a line in the code that installs a package , `knitr` expect the repository to be explicitly specified, like in ```install.packages(..., repos="....")```
 
 All packages used in this code are installed and loaded using pacman::p_load  
-```install.packages("pacman")  
-pacman::p_load(ggplot2, tidyr, dplyr)```
 
-`R packages used in this project.`
+```
+install.packages("pacman")  
+pacman::p_load(ggplot2, tidyr, dplyr)  
+```
 
-I use this trick (gathered from the internet) to skip package already installed in my RStudio.
+R packages used in this project.
 
-```R-programming
+I use this trick (gathered from the internet) to skip package already installed in my RStudio.  
+
+```
 packages <- c("Hmisc","corrplot","PerformanceAnalytics","correlation","car","caTools")
 
 installed_packages <- packages %in% rownames(installed.packages())
@@ -28,7 +31,8 @@ if (any(installed_packages == FALSE)) {
   install.packages(packages[!installed_packages], repos = "http://cran.us.r-project.org" )
 }
 
-invisible(lapply(packages, library, character.only = TRUE))
+invisible(lapply(packages, library, character.only = TRUE))  
+
 ```
 
 ### Project description and tasks.
