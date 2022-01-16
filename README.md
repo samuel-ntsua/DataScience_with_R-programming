@@ -8,8 +8,10 @@ I completed this Data Science project to fulfill one of the requirements for Sim
     4. Tableau Training  
     5. Big Data Hadoop and Spark Developer  
     6. Data Science Capstone project  
-### Some housekeeping.
-I generated an output of this write-up using knitr. (In RStudio, File->Knit Document). `Knitr` then runs my r-code and knit the output into a nice word document.  Please note that if there is a line in the code that installs a package , `knitr` expect the repository to be explicitly specified, like in ```install.packages(..., repos="....")```
+### Some housekeeping.  
+I run the project on my local machine with Anaconda/RStudio/Jupyter. I generated an output of this write-up using knitr. (In RStudio, File->Knit Document).  
+`Knitr` then runs my r-code and knit the output into a nice word document.  
+Please note that if there is a line in the code that installs a package , `knitr` expect the repository to be explicitly specified, like in ```install.packages(..., repos="....")```
 
 All packages used in this code are installed and loaded using pacman::p_load  
 
