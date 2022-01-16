@@ -9,7 +9,7 @@ I completed this Data Science project to fulfill one of the requirements for Sim
     5. Big Data Hadoop and Spark Developer  
     6. Data Science Capstone project  
 ### Some housekeeping.  
-I run the project on my local machine with Anaconda/RStudio/Jupyter. I generated an output of this write-up using knitr. (In RStudio, File->Knit Document).  
+I run the project on my local machine with Anaconda/RStudio/Jupyter. I generated [an output of this write-up](https://github.com/samuel-ntsua/DataScience_with_R-programming/blob/fc1fc8bffb8af7b73d5a77289c91850b46f81162/ds_r_proj_solution_code_ntsua.docx) using knitr. (In RStudio, File->Knit Document).  
 `Knitr` then runs my r-code and knit the output into a nice word document.  
 Please note that if there is a line in the code that installs a package , `knitr` expect the repository to be explicitly specified, like in ```install.packages(..., repos="....")```
 
