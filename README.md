@@ -71,4 +71,4 @@ to find if the length of stay can be predicted from age, gender, and race.
 - To perform a complete analysis, the agency wants to find the variable that  
 mainly affects the hospital costs.  
 
-###[My approach to solution.](https://github.com/samuel-ntsua/DataScience_with_R-programming/blob/698e503027b0f5e5b669ccaff07155557c2c7234/DataScience_with_R_programming.ipynb)
+[My approach to solution.](https://github.com/samuel-ntsua/DataScience_with_R-programming/blob/5bd64310f436675ad9b8ea054df95bf16b24b7c3/DataScience_with_R_programming.ipynb)
